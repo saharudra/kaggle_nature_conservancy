@@ -1,0 +1,5 @@
+glimpse size: 64
+number of gimpse scales: 1
+number of time steps: 6
+variance of location policy: 0.03
+training batch size: 100
